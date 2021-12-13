@@ -9,9 +9,9 @@ The whole point of stathelp.org is to help beginners in statistics find their fe
   - Click "Run" and watch the diabetes.csv file load into RStudio
   - View the spreadsheet contained within diabetes.csv
   - Write three simple commands using ```R``` code
-        - to print out (on the screen) the figures in the spreadsheet
-        - to do some basic calculations
-        - to produce a basic plot
+    - to print out (on the screen) the figures in the spreadsheet
+    - to do some basic calculations
+    - to produce a basic plot
 - A series of tutorials which take you step-by-step through all the key mathematical ideas which statistics is built on
 - A list of ```R``` functions commonly used for analysing data
 - A systematic method for doing your own statistical analysis
